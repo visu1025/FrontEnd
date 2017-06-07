@@ -1,0 +1,48 @@
+.jumbotron {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#author {
+  border-top-style: solid;
+  border-top-color: silver;
+  border-top-width: 1px;
+}
+
+#footer {
+  padding-top: 5px;
+  padding-bottom: 40px;
+}
+
+.img-responsive {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+#image {
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+}
+
+.caption {
+  font-size: 15px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+#textContainer {
+  padding-top: 40px;
+  /* padding-left : 60px;
+   padding-right : 60px;*/
+  padding-bottom: 40px;
+}
+
+a:hover {
+  color: red;
+}
