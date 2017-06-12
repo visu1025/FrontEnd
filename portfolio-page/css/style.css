@@ -1,0 +1,101 @@
+.menuBar {
+  background-color: purple;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  z-index: 1000;
+}
+#HomeIcon {
+  font-size: 40px;
+  color: white;
+  font-family: lobster;
+  text-decoration: none;
+}
+.menuButtons {
+  background-color: purple;
+  color: grey;
+  /*font-family : cabria;*/
+  font-size: 18px;
+}
+.menuLinks:visited{
+  color : grey;
+}
+.menuLinks{
+  color : grey;
+}
+button:hover {
+  background-color: white;
+  color: black;
+  border-type: solid;
+  border-color: purple;
+}
+button:active {
+  background-color: white;
+  color: black;
+  border-type: solid;
+  border-color: purple;
+}
+#portfolioBox {
+  margin-top: 100px;
+  overflow-y: hidden;
+}
+#endBar {
+  background-color: purple;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#textForm {
+  color: white;
+}
+#socialBar {
+  background-color: grey;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.fa {
+  color: purple;
+}
+.social {
+  border-style: solid;
+  border-radius: 50%;
+}
+a:hover {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+ˇ}
+#dp {
+  border-style: solid;
+  border-radius: 50%;
+  border: 1px;
+  width: 100%;
+  height: 100%;
+}
+#intro {
+  padding: 30px;
+}
+#contactFont {
+  font-family: lobster;
+  color: purple;
+}
+#formItem{
+  background-color : transparent;
+  border : transparent;
+  width : 100%;
+  align : center;
+  height : 50px;
+}
+#submitButton{
+  background-color : purple;
+  border-color : purple;
+}
+#formBox{
+  padding : 40px;
+}
+#formItem:focus{
+  outline : none;
+}
